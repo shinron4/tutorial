@@ -1,1 +1,1 @@
-first file in first_BRANCH
+first file in first_BRANCH, modified in the first branch.
